@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas1_1718044</string>
+    <string name="action_setting">Pengaturan</string>
+    <string name="action_setting_language">Bahasa</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="label_setting_locale_summary">Ubah Bahasa Perangkat</string>
+    <string name="label_setting_locale_title">Ubah Bahasa</string>
+    <string name="label_posting">Postingan</string>
+    <string name="label_followers">Pengikut</string>
+    <string name="label_follow">Mengikuti</string>
+    <string name="show_comments">Lihat Semua Komentar</string>
+    <string name="btn_follow">Ikuti</string>
+    <string name="kampus">Institut Teknologi Nasional</string>
+</resources>

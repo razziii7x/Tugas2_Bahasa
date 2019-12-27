@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas2_1718044</string>
+    <string name="action_setting">Setting</string>
+    <string name="action_setting_language">Language</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="label_setting_locale_summary">Change device language</string>
+    <string name="label_setting_locale_title">Change language</string>
+    <string name="label_posting">Posting</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_follow">Follow</string>
+    <string name="show_comments">Show All Comments</string>
+    <string name="btn_follow">Follow</string>
+    <string name="kampus">National Institute of Technology</string>
+</resources>

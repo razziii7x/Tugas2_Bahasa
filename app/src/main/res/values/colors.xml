@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3DD7C7</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="DP_500">#A31818</color>
+    <color name="R_500">#FF0000</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="LB_500">#03a9f4</color>
+    <color name="about">#B49696</color>
+    <color name="black">#393939</color>
+</resources>
